@@ -3,3 +3,4 @@
 *.a
 sample_program
 library.so.*
+dynamic_program
