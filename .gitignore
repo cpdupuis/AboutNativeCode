@@ -2,3 +2,4 @@
 *.so
 *.a
 sample_program
+library.so.*
