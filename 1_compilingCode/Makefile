@@ -6,8 +6,8 @@
 
 all: helloWorld helloWorld.s
 
-helloWorld: helloWorld.o
-	cc -o helloWorld helloWorld.o
+helloWorld: helloWorld.o anotherFile.o
+	cc -o helloWorld helloWorld.o anotherFile.o
 
 helloWorld.o: helloWorld.s
 	cc -c helloWorld.s
