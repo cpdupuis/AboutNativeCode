@@ -8,4 +8,4 @@ dynamic_program
 */*.a
 */*.so
 */*.s
-
+*/helloWorld
