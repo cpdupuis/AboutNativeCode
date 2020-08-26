@@ -13,7 +13,9 @@ in the context of Linux.
 * Dynamic Libraries
   * Making a .so library
   * Linking to a shared library
+  * Multiple versions of shared libraries
   * Loading shared libraries from code
+
 
 
 

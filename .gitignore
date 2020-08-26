@@ -9,3 +9,4 @@ dynamic_program
 */*.so
 */*.s
 */helloWorld
+2_staticLibraries/staticProgram
