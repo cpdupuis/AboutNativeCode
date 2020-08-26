@@ -4,3 +4,6 @@
 sample_program
 library.so.*
 dynamic_program
+*/*.o
+*/*.a
+*/*.so
