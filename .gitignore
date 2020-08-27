@@ -10,3 +10,5 @@ dynamic_program
 */*.s
 */helloWorld
 2_staticLibraries/staticProgram
+3_dynamicLibraries/dynamicProgram
+3_dynamicLibraries/runtimeLoader
