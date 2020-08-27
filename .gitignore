@@ -12,3 +12,6 @@ dynamic_program
 2_staticLibraries/staticProgram
 3_dynamicLibraries/dynamicProgram
 3_dynamicLibraries/runtimeLoader
+4_libraryVersioning/dynamicProgram
+4_libraryVersioning/runtimeLoader
+.vscode
