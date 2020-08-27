@@ -2,6 +2,7 @@
 #include <stdio.h>
 
 int main(int argc, char *argv[]) {
+    printf("Version is %s\n", getVersion());
     printf("%s\n", function1());
     printf("%s\n", function2());
     printf("%s\n", function3());
